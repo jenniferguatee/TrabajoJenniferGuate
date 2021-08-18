@@ -15,6 +15,21 @@
    text-decoration: none;
 }
 
+#header-nav {
+  background-color: blue;
+  border-radius: 0;
+  border: 0;
+}
+
+#logo-img {
+  background: url('imagen/tienda.jpg') no-repeat;
+  width: 250px;
+  height: 250px;
+  margin: 10px 15px 10px 0;
+}
+
+
+
  *{
     background-color: pink;
     box-sizing: border-box; 
